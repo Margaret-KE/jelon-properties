@@ -1,0 +1,1 @@
+web: gunicorn boma.wsgi --log-file -
