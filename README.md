@@ -1,1 +1,1 @@
-# jelon-properties
+Boma Yangu Affordable Housing project
